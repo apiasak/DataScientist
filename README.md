@@ -1,2 +1,5 @@
 # DataScientist
-Learning to become a Data Scientist 
+### Data Science Project - Python
+----
+
+This repo contained all of my data science hands-on project.
