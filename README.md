@@ -1,5 +1,4 @@
-# DataScientist
-### Data Science Project - Python
+# Data Science and Machine Learning Projects - Python
 ----
 This repo contained all of my data science hands-on project.
 - Linear Regression
